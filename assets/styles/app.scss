@@ -1,0 +1,22 @@
+/* SASS file, with examples
+ * You can use Sails.js with Bootstrap and Font Awesome,
+ * using gulp if you were to include them as so.
+ *
+ * Remember to update your gulpfile, though!
+ *
+ * // Bootstrap theme
+ * $brand-primary: #14acc2;
+ * $brand-success: #0c8da0;
+ * $brand-info: #8adae6;
+ * $brand-warning: #a0450c;
+ * $brand-danger: #c11316;
+ * 
+ * // Import libraries
+ * @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+ * @import "node_modules/font-awesome/scss/font-awesome";
+ * 
+*/
+
+body {
+    background-color: #FFFFFF;
+}
